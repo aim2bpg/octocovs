@@ -2,7 +2,7 @@
 
 | Repository | Coverage | Code to Test Ratio | Time Execution Time | Badges |
 | --- | --- | --- | --- | --- |
-| [aim2bpg/rubree](https://github.com/aim2bpg/rubree) | 96.4% | 1:1.9 | 40s | ![aim2bpg/rubree](https://raw.githubusercontent.com/aim2bpg/octocovs/main/badges/aim2bpg/rubree/coverage.svg) ![aim2bpg/rubree](https://raw.githubusercontent.com/aim2bpg/octocovs/main/badges/aim2bpg/rubree/ratio.svg) ![aim2bpg/rubree](https://raw.githubusercontent.com/aim2bpg/octocovs/main/badges/aim2bpg/rubree/time.svg) <details><summary>Copy status badge markdown</summary>```![Coverage](https://raw.githubusercontent.com/aim2bpg/octocovs/main/badges/aim2bpg/rubree/coverage.svg)```<br>```![Code to Test Ratio](https://raw.githubusercontent.com/aim2bpg/octocovs/main/badges/aim2bpg/rubree/ratio.svg)```<br>```![Test Execution Time](https://raw.githubusercontent.com/aim2bpg/octocovs/main/badges/aim2bpg/rubree/time.svg)```</details> |
+| [aim2bpg/rubree](https://github.com/aim2bpg/rubree) | 96.4% | 1:1.9 | 33s | ![aim2bpg/rubree](https://raw.githubusercontent.com/aim2bpg/octocovs/main/badges/aim2bpg/rubree/coverage.svg) ![aim2bpg/rubree](https://raw.githubusercontent.com/aim2bpg/octocovs/main/badges/aim2bpg/rubree/ratio.svg) ![aim2bpg/rubree](https://raw.githubusercontent.com/aim2bpg/octocovs/main/badges/aim2bpg/rubree/time.svg) <details><summary>Copy status badge markdown</summary>```![Coverage](https://raw.githubusercontent.com/aim2bpg/octocovs/main/badges/aim2bpg/rubree/coverage.svg)```<br>```![Code to Test Ratio](https://raw.githubusercontent.com/aim2bpg/octocovs/main/badges/aim2bpg/rubree/ratio.svg)```<br>```![Test Execution Time](https://raw.githubusercontent.com/aim2bpg/octocovs/main/badges/aim2bpg/rubree/time.svg)```</details> |
 
 ---
 
